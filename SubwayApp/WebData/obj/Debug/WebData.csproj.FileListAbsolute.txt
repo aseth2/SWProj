@@ -1,0 +1,6 @@
+C:\SubwayProject\SWProj\SubwayApp\WebData\bin\Debug\WebData.exe.config
+C:\SubwayProject\SWProj\SubwayApp\WebData\bin\Debug\WebData.exe
+C:\SubwayProject\SWProj\SubwayApp\WebData\bin\Debug\WebData.pdb
+C:\SubwayProject\SWProj\SubwayApp\WebData\obj\Debug\WebData.exe
+C:\SubwayProject\SWProj\SubwayApp\WebData\obj\Debug\WebData.pdb
+C:\SubwayProject\SWProj\SubwayApp\WebData\obj\Debug\WebData.csprojResolveAssemblyReference.cache
